@@ -29,7 +29,7 @@
         "symfony/event-dispatcher": "^5.0",
         "myclabs/php-enum": "^1.4",
         "php-http/httplug": "^2.0",
-        "php-http/message-factory": "^2.0",
+        "php-http/message-factory": "^1.0.2",
         "php-http/client-common": "^2.0",
         "php-http/discovery": "^2.0",
         "php-http/message": "^2.0",
