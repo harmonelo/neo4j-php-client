@@ -28,7 +28,7 @@
         "harmonelo/neo4j-bolt": "dev-master",
         "symfony/event-dispatcher": "^5.0",
         "myclabs/php-enum": "^1.4",
-        "php-http/httplug": "^1.0",
+        "php-http/httplug": "^2.0",
         "php-http/message-factory": "^1.0",
         "php-http/client-common": "^1.0",
         "php-http/discovery": "^1.0",
