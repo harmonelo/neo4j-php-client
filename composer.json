@@ -37,7 +37,7 @@
     },
     "repositories": [
         {
-            "type": "path",
+            "type": "vcs",
             "url": "https://github.com/harmonelo/neo4j-bolt-php"
         }
     ],
