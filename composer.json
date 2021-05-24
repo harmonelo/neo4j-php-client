@@ -32,7 +32,7 @@
         "php-http/message-factory": "^1.0.2",
         "php-http/client-common": "^2.0",
         "php-http/discovery": "dev-master",
-        "php-http/message": "dev-master",
+        "php-http/message": "1.11.0",
         "php-http/guzzle7-adapter": "^0.1.1"
     },
     "repositories": [
